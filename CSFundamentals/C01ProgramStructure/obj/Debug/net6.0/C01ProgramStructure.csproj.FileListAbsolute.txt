@@ -1,0 +1,15 @@
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\bin\Debug\net6.0\C01ProgramStructure.exe
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\bin\Debug\net6.0\C01ProgramStructure.deps.json
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\bin\Debug\net6.0\C01ProgramStructure.runtimeconfig.json
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\bin\Debug\net6.0\C01ProgramStructure.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\bin\Debug\net6.0\C01ProgramStructure.pdb
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.csproj.AssemblyReference.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.AssemblyInfoInputs.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.AssemblyInfo.cs
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.csproj.CoreCompileInputs.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\refint\C01ProgramStructure.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.pdb
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\C01ProgramStructure.genruntimeconfig.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C01ProgramStructure\obj\Debug\net6.0\ref\C01ProgramStructure.dll
