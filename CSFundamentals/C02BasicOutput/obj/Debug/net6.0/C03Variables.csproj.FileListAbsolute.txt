@@ -1,0 +1,15 @@
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\bin\Debug\net6.0\C03Variables.exe
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\bin\Debug\net6.0\C03Variables.deps.json
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\bin\Debug\net6.0\C03Variables.runtimeconfig.json
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\bin\Debug\net6.0\C03Variables.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\bin\Debug\net6.0\C03Variables.pdb
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.csproj.AssemblyReference.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.AssemblyInfoInputs.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.AssemblyInfo.cs
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.csproj.CoreCompileInputs.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\refint\C03Variables.dll
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.pdb
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\C03Variables.genruntimeconfig.cache
+C:\Users\nualm\Gentle-introduction-to-C-fundamentals\CSFundamentals\C02BasicOutput\obj\Debug\net6.0\ref\C03Variables.dll

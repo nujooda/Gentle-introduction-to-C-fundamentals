@@ -4,9 +4,15 @@
     {
         static void Main(string[] args)
         {
-            // check notes
-            //Start on Data Types
+            double Price = 80;
+            double stdDisc = .14;
 
+            bool isStudent = true;
+            
+            if (isStudent)
+            {
+                Console.WriteLine($"Special Student Price: {Price - (stdDisc * Price)}");
+            }
         }
     }
 }
