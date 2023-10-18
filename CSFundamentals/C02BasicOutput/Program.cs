@@ -4,8 +4,11 @@ namespace C03Variables
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            {
+                CalculateSalesTax();
+            }
             /*string nbrString = "27";
 
             int nbrInt = Convert.ToInt32(nbrString);
@@ -99,7 +102,7 @@ namespace C03Variables
                     break;*/
             //do while loop
 
-            string doorPIN;
+            /*string doorPIN;
             do
             {
                 Console.WriteLine("Please enter PIN to gain access: ");
@@ -110,7 +113,19 @@ namespace C03Variables
             while (doorPIN != "001");
             Console.WriteLine("You can enter");
 
-            Console.WriteLine("Hello mansor");
+            Console.WriteLine("Hello mansor");*/
+
+
+            static void CalculateSalesTax()
+            {
+                const double salesTax = 0.1;
+                double totalPurchase = 530;
+
+                Console.WriteLine($"Purchase : ${totalPurchase}");
+                Console.WriteLine($"Sales Tax: ${salesTax * totalPurchase}");
+                Console.WriteLine();
+                Console.WriteLine($"TOTAL: ${totalPurchase + (salesTax * totalPurchase)}");
+            }
 
             Console.ReadKey();
 
