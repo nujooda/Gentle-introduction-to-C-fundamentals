@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Text.RegularExpressions;
 
 namespace C03Variables
 {
@@ -6,9 +7,6 @@ namespace C03Variables
     {
         private static void Main(string[] args)
         {
-            {
-                CalculateSalesTax();
-            }
             /*string nbrString = "27";
 
             int nbrInt = Convert.ToInt32(nbrString);
@@ -116,7 +114,7 @@ namespace C03Variables
             Console.WriteLine("Hello mansor");*/
 
 
-            static void CalculateSalesTax()
+            /*static void CalculateSalesTax()
             {
                 const double salesTax = 0.1;
                 double totalPurchase = 530;
@@ -125,7 +123,55 @@ namespace C03Variables
                 Console.WriteLine($"Sales Tax: ${salesTax * totalPurchase}");
                 Console.WriteLine();
                 Console.WriteLine($"TOTAL: ${totalPurchase + (salesTax * totalPurchase)}");
+            }*/
+
+            /*Console.Write("Name: ");
+            string? inputName = Console.ReadLine();
+
+            bool isNameVaild = Regex.IsMatch(inputName, @"^[a-zA-Z-]+$");
+
+            if (isNameVaild) 
+            {
+                Console.WriteLine($"How are you today {inputName}?");
+
             }
+            else
+            {
+                Console.WriteLine("Sorry, invalid input!");
+
+            }*/
+            // validating number input
+            //Console.Write("Name: ");
+            //string? inputName = Console.ReadLine();
+
+            /*Console.Write("Physics score: ");
+            string? inputPhysics = Console.ReadLine();
+            double scorePhysics = Convert.ToDouble(inputMath);
+
+            Console.Write("Chemistry score: ");
+            string? inputChemistry = Console.ReadLine();
+            double scoreChemistry = Convert.ToDouble(inputChemistry);
+
+            Console.WriteLine(); // emptyline*/
+
+            Console.Write("Math score: ");
+            string? inputMath = Console.ReadLine();
+            bool isInputMathVaild = double.TryParse(inputMath, out double scoreMath);
+
+            if (isInputMathVaild)
+            {
+                Console.WriteLine("Vaild score");
+                Console.Read();
+
+            }
+            else 
+            {
+                Console.WriteLine("Invaild score!");
+                Console.Read();
+            }
+
+
+
 
             Console.ReadKey();
 
